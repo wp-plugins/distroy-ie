@@ -7,33 +7,33 @@ Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-ÎÒÌÖÑáIE£¬ËùÒÔÎÒÖÆ×÷Õâ¸ö²å¼þ¸æËßÈËÃÇ²»ÒªÊ¹ÓÃIE£¬ÖÁÉÙÊ¹ÓÃIE8+
+æˆ‘è®¨åŽŒIEï¼Œæ‰€ä»¥æˆ‘åˆ¶ä½œè¿™ä¸ªæ’ä»¶å‘Šè¯‰äººä»¬ä¸è¦ä½¿ç”¨IEï¼Œè‡³å°‘ä½¿ç”¨IE8+
 
 == Description ==
 
-±¾²å¼þ½«´´½¨Ò»¸öÖ»ÔÚµÍÓÚIE8°æ±¾µÄIEä¯ÀÀÆ÷ÉÏÏÔÊ¾¡°ÓÃ»§ÕýÔÚÊ¹ÓÃµÍ°æ±¾IE¡±µÄ¾¯¸æÍ¼Æ¬£¬²¢ÇÒÌá¹©ÁË10¿î¸üºÃµÄä¯ÀÀÆ÷ÏÂÔØÁ´½Ó¡£´ó¼ÒÒ»¶¨¾õµÃÆæ¹Ö£¬×÷ÎªÖÐ¹ú»¥ÁªÍøÂçÂ¢¶ÏµØÎ»µÄ´ó¸ç´óÌÚÑ¶ÆìÏÂµÄÌÚÑ¶TTä¯ÀÀÆ÷ÎªºÎÃ»ÓÐÔÚÁÐ±íÀïÄØ£¿ÒòÎª£¬ÒòÎªÌÚÑ¶TTÓÃµÄÊÇIEµÄTridentÄÚºË£¬Èç¹û²»Éý¼¶IEµÄ»°£¬Ò»Ñù²»ÄÜÓÃ£¬Ò»ÑùÂýµÃÈËÐÄ·³¡£Ï£ÍûÌÖÑáIEä¯ÀÀÆ÷µÄ¿ª·¢ÕßÏ²»¶¡£
+æœ¬æ’ä»¶å°†åˆ›å»ºä¸€ä¸ªåªåœ¨ä½ŽäºŽIE8ç‰ˆæœ¬çš„IEæµè§ˆå™¨ä¸Šæ˜¾ç¤ºâ€œç”¨æˆ·æ­£åœ¨ä½¿ç”¨ä½Žç‰ˆæœ¬IEâ€çš„è­¦å‘Šå›¾ç‰‡ï¼Œå¹¶ä¸”æä¾›äº†10æ¬¾æ›´å¥½çš„æµè§ˆå™¨ä¸‹è½½é“¾æŽ¥ã€‚å¤§å®¶ä¸€å®šè§‰å¾—å¥‡æ€ªï¼Œä½œä¸ºä¸­å›½äº’è”ç½‘ç»œåž„æ–­åœ°ä½çš„å¤§å“¥å¤§è…¾è®¯æ——ä¸‹çš„è…¾è®¯TTæµè§ˆå™¨ä¸ºä½•æ²¡æœ‰åœ¨åˆ—è¡¨é‡Œå‘¢ï¼Ÿå› ä¸ºï¼Œå› ä¸ºè…¾è®¯TTç”¨çš„æ˜¯IEçš„Tridentå†…æ ¸ï¼Œå¦‚æžœä¸å‡çº§IEçš„è¯ï¼Œä¸€æ ·ä¸èƒ½ç”¨ï¼Œä¸€æ ·æ…¢å¾—äººå¿ƒçƒ¦ã€‚å¸Œæœ›è®¨åŽŒIEæµè§ˆå™¨çš„å¼€å‘è€…å–œæ¬¢ã€‚
 
 == Installation ==
 
-1. ÉÏ´« `distroy-ie` Ä¿Â¼µ½ `/wp-content/plugins/` ÎÄ¼þ¼Ð
-1. ÔÚwordpressµÄ '²å¼þ' ²Ëµ¥ÖÐ¼¤»î¸Ã²å¼þ
+1. ä¸Šä¼  `distroy-ie` ç›®å½•åˆ° `/wp-content/plugins/` æ–‡ä»¶å¤¹
+1. åœ¨wordpressçš„ 'æ’ä»¶' èœå•ä¸­æ¿€æ´»è¯¥æ’ä»¶
 
 == Screenshots ==
 
-1. Ê¹ÓÃµÍÓÚIE8°æ±¾µÄIEä¯ÀÀÆ÷¾Í»á¿´µ½ÕâÑùµÄÍ¼Æ¬£¬²¢ÇÒ¿ÉÒÔÑ¡ÔñÍ¼Æ¬ÖÐÌá¹©µÄ10¿îä¯ÀÀÆ÷ÏÂÔØ°²×°
+1. ä½¿ç”¨ä½ŽäºŽIE8ç‰ˆæœ¬çš„IEæµè§ˆå™¨å°±ä¼šçœ‹åˆ°è¿™æ ·çš„å›¾ç‰‡ï¼Œå¹¶ä¸”å¯ä»¥é€‰æ‹©å›¾ç‰‡ä¸­æä¾›çš„10æ¬¾æµè§ˆå™¨ä¸‹è½½å®‰è£…
 
 == Changelog ==
 
 = 1.0.1 =
-* ÐÞ¸´ÁËÒ»¸öÐ¡bug
+* ä¿®å¤äº†ä¸€ä¸ªå°bug
 
 = 1.0 =
-* ²å¼þµ®Éú£¬¸Ä×ÔQQWorld Framework for WPµÄÒ»¸öÄÚÖÃ²å¼þ
+* æ’ä»¶è¯žç”Ÿï¼Œæ”¹è‡ªQQWorld Framework for WPçš„ä¸€ä¸ªå†…ç½®æ’ä»¶
 
 == Upgrade Notice ==
 
 = 1.0.1 =
-Ð¡Ð¡µÄ¸üÐÂ£¬½¨ÒéµãÒ»ÏÂÉý¼¶¡£
+å°å°çš„æ›´æ–°ï¼Œå»ºè®®ç‚¹ä¸€ä¸‹å‡çº§ã€‚
 
 = 1.0 =
-ÌÖÑáIEµÄ¿ª·¢ÕßÒ»¶¨ÒªÏÂÔØ°²×°Å¶£¡
+è®¨åŽŒIEçš„å¼€å‘è€…ä¸€å®šè¦ä¸‹è½½å®‰è£…å“¦ï¼
