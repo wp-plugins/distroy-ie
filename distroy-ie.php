@@ -3,7 +3,7 @@
 Plugin Name: Distroy IE(抛弃IE6&7)
 Plugin URI: http://wordpress.org/plugins/distroy-ie/
 Description: 本插件将创建一个只在低于IE8版本的IE浏览器上显示“用户正在使用低版本IE”的警告图片，并且提供了10款更好的浏览器下载链接。大家一定觉得奇怪，作为中国互联网络垄断地位的大哥大腾讯旗下的腾讯TT浏览器为何没有在列表里呢？因为，因为腾讯TT用的是IE的Trident内核，如果不升级IE的话，一样不能用，一样慢得人心烦。希望讨厌IE浏览器的开发者喜欢。
-Version: 1.0.1
+Version: 1.1
 Author: Michael Wang
 Author URI: http://project.qqworld.org
 */
