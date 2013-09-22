@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Distroy IE ===
 Contributors: Michael Wang
 Tags: ie
 Requires at least: 3.0
