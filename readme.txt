@@ -1,4 +1,5 @@
 === Distroy IE ===
+Contributors: qqworld
 Tags: ie
 Requires at least: 3.0
 Tested up to: 4.1
